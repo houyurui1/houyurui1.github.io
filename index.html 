@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>收款码</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+background:#ffffff;
+min-height:100vh;
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+padding:20px;
+gap:25px;
+}
+img{
+width:100%;
+max-width:380px;
+height:auto;
+display:block;
+}
+</style>
+</head>
+
+<body>
+<img src="1.jpg" alt="支付宝收款码">
+<img src="2.jpg" alt="微信收款码">
+</body>
+</html>
